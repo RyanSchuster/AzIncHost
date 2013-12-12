@@ -1,3 +1,8 @@
-Project removed temporarily due to licensing concerns
+Host software for interfacing with the control board
 
-Everything will be reuploaded once proper license headers have been added to the source code files.
+run host.py, type "help" for a list of commands
+
+controlboard.py and regtran.py are libraries used by host.py
+
+Eventually regtran.py might be renamed and moved to a new
+git repo, but today is not that day.
